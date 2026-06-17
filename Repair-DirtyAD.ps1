@@ -78,7 +78,7 @@
     Simule les corrections de securite les moins risquees.
 
 .NOTES
-    Auteur : Théo de Benedittis
+    Auteur : Thagvi
 	Développement réalisé avec assistance et relecture technique
     Usage : Lab / documentation BAIS / reprise AD
     A executer sur un controleur de domaine ou un serveur avec RSAT Active Directory.
